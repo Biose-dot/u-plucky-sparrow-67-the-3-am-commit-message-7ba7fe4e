@@ -11,3 +11,8 @@ Notes:
 - Entry written v1 then revised in a later message (two-message transcript gate satisfied).
 - KIT-UNAVAILABLE: kit download gagal 2x (HTTP 503, application/problem+json) — server make.fun: "dev kit is waiting for its build... last build failed ... cli/makefun.mjs cannot be built". Kit dir kosong: ~/workspace/makefun/u-plucky-sparrow-67-the-3-am-commit-message-7ba7fe4e-kit/. Brief + batas karakter diambil dari listing kompetisi resmi make.fun (competitions_open_20261125.json): one commit message, max 200 chars.
 - Status: built, pending coordinator bundle+submit.
+
+- Submission ID: 01a20fc1-96a6-754e-a1bc-4e144c242533
+- Bundle: /home/hatch/workspace/makefun/u-plucky-sparrow-67-the-3-am-commit-message-7ba7fe4e-bundle.tar.gz
+- Status: submitted (see status output in finish-batch0516-c2.log)
+- Submitted: 2026-11-25 WIB (round 2, builder+finisher sessions)
